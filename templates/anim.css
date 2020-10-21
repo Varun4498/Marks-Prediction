@@ -13,7 +13,7 @@ body {
     color: rgba(255,255,255,.85);
 }
 #container { 
-    padding-top: 50px;
+    padding-top: 150px;
 }
 #content {
     max-width: 43em;
@@ -22,7 +22,7 @@ body {
 }
 h1 {
     font-size: 4.8em;
-    font-weight: 100;
+    font-weight: 80;
     text-transform: uppercase;
     margin: 0;
 }
@@ -80,8 +80,8 @@ body { font-size: 1em;}
   
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
-  -webkit-transform: rotateX(75deg) rotate(65deg);
-  transform: rotateX(75deg) rotate(65deg);
+  -webkit-transform: rotateX(85deg) rotate(65deg);
+  transform: rotateX(85deg) rotate(65deg);
   -webkit-animation: turnPyramid 10s linear infinite;
   animation: turnPyramid 10s linear infinite;
 }
